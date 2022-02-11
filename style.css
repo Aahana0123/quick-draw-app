@@ -1,0 +1,18 @@
+#time{
+    float: right;
+}
+h1{
+    font-family: 'Monoton', cursive;
+    color: black;
+}
+body{
+    background-color: rgb(255, 6, 172);
+}
+#sketch_name , #confidence , #drawing , #time , #score{
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+#show_sketch{
+    float: right;
+}
+
